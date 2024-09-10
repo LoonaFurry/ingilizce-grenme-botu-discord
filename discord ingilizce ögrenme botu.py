@@ -208,7 +208,6 @@ flash_cards = {
     "dumbass": "gerizekalı",
     "backfire": "geri tepme",
     "junk": "hurda",
-    
     "chamomile": "papatya",
     "Eccentricity": "Eksantriklik",
     "eccentric": "eksantrik",
